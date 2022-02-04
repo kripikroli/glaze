@@ -1,0 +1,18 @@
+/* Niveau Grotesk */
+@import url("https://use.typekit.net/fqa8tix.css");
+
+/* IvyPresto Display */
+@import url("https://use.typekit.net/twg6dla.css");
+
+/* Gordita */
+@import url("http://fonts.cdnfonts.com/css/gordita");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-[#F4F2EB];
+  }
+}
